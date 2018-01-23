@@ -1,6 +1,5 @@
 # hello-world
 
-Hello
-
-Second year computer engineering student.
-Languages :- Python, C++, Java, C
+Second year Computer Engineering student.
+Languages :- Python, C++, C, Java.
+Hungry for some experience in the real world.
